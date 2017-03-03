@@ -604,7 +604,7 @@ UI_20150317_000603	{@st59}Do not Reinforce{/}
 UI_20150317_000604	{@st44}Resume{/}
 UI_20150317_000605	{@st41b}You have become {/}{s20}{#cc6600}{ol} incapacitated{/}{@st41b}{/}
 UI_20150317_000606	{@st41b}Respawn at the nearest Revival Point{/}
-UI_20150317_000607	{@st41b}Respawn here (requires %s TPs) {/}
+UI_20150317_000607	{@st41b}Respawn here (requires %s Soul Crystals) {/}
 UI_20150317_000608	{@st41b}Return to field{/}
 UI_20150317_000609	{@st41b}Abandon quest and restart{/}
 UI_20150317_000610	{@st41b}Try again{/}
@@ -991,7 +991,7 @@ UI_20150317_000990	{@st59}Cleric{/}
 UI_20150317_000991	{@St41b}Visit Barrack {/}
 UI_20150317_000992	{@St59}Visit the Barrack of another player.{/}
 UI_20150317_000993	{@St41b}Logout{/}
-UI_20150317_000994	{@St59}Move to the login screen{/}
+UI_20150317_000994	{@St59}Move to login screen{/}
 UI_20150317_000995	{@St41b}Exit Game{/}
 UI_20150317_000996	{@St59}Exit Tree of Savior{/}
 UI_20150317_000997	{@st41b}Select Channel{/}
@@ -1012,7 +1012,7 @@ UI_20150317_001011	{@St59}Cancel character creation{/}
 UI_20150317_001012	{@St59}Close{/}
 UI_20150317_001013	{@St59}Create a team with the entered name{/}
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!
-UI_20150317_001015	{@St41b}Your Team Name is a name that represents all your characters.{nl}This name will be used universally during trade, guild joining, conversation and more.{nl}         Team Name can be changed at any time using 150 TP.{/}
+UI_20150317_001015	{@St41b}Your Team Name is a name that represents all your characters.{nl}This name will be used universally during trade, guild joining, conversation and more.{/}
 UI_20150317_001016	Loading background
 UI_20150317_001017	Tip
 UI_20150317_001018	Game Tips
@@ -1571,7 +1571,7 @@ UI_20150714_001570	{@st66}Select All
 UI_20150714_001571	{@st43}Craft Arrow{/}
 UI_20150714_001572	{@st59}Close{/}
 UI_20150714_001573	{@st66b}Check{/}
-UI_20150714_001574	{@st66b}Leave Helper(Requires %s TP){/}
+UI_20150714_001574	{@st66b}Leave Helper(Requires %s Coin){/}
 UI_20150714_001575	Additional Socket Cost : {#000000}%s{/} {nl}Gem Extraction Cost : {#000000}%s{/}
 UI_20150714_001576	{ds}Recommended Level : %s
 UI_20150714_001577	Explored : 50.0%
@@ -1794,7 +1794,7 @@ UI_20150923_001793	Friendship
 UI_20150923_001794	{@st41b}Obtained material for item crafting!
 UI_20150923_001795	{@st66b}{s20}You have become {/}{s20}{#cc6600}{ol}Incapable of Combat {/}{@st66b}{s20}!{/}
 UI_20150923_001796	{@st66b}Restart from the nearest Revival Point{/}
-UI_20150923_001797	{@st66b}Restart here (requires %s TPs){/}
+UI_20150923_001797	{@st66b}Restart here (requires %s G-cashs){/}
 UI_20150923_001798	{@st66b}Return to the field{/}
 UI_20150923_001799	{@st66b}Abandon the quest and try again{/}
 UI_20150923_001800	{@st66b}Try Again{/}
@@ -1826,7 +1826,7 @@ UI_20151116_001825	{@st41}Server Queue
 UI_20151116_001826	{#000000}{s18}The server is currently full. Queuing for entry.
 UI_20151116_001827	{#000000}{s18}Current Position : %s
 UI_20151116_001828	{@st66b}Show Other Character's Effects
-UI_20151116_001829	TP
+UI_20151116_001829	G-Cash
 UI_20160218_001830	{@st41b}Change{s18}(Requires 100 TP){/}
 UI_20160218_001831	Consume Quantity
 UI_20160218_001832	Quantity Available
@@ -2375,28 +2375,28 @@ UI_20161212_002374	Warning{/}
 UI_20161212_002375	Remove all equipped gear before you proceed{nl}The class costume will be changed along with your gender{/}
 UI_20161212_002376	{@st67}All the premium items that were gender specific will no longer be equippable{/}
 UI_20161212_002377	Stat
-UI_20161212_002378	{@st43}{s24}TP Shop	{@st43}{s24}TP상점
-UI_20161212_002379	{@st43}{s24}New Item{/}	{@st43}{s24}신상품{/}
+UI_20161212_002378	{@st43}{s24}TP Shop{/}
+UI_20161212_002379	{@st43}{s24}New Item{/}
 UI_20161212_002380	  {img Nexon_cash_mark 30 30} Owned{/}{/}
-UI_20161212_002381	{@st66d}{s20}Recharge Nexon Cash{/}	{@st66d}{s20}넥슨캐시 충전{/}
+UI_20161212_002381	{@st66d}{s20}Recharge Nexon Cash{/}
 UI_20161212_002382	{@st66d}{s18}Preview/Purchase{/}
-UI_20161212_002383	{@st66d}Tampilan Asli{/}	{@st66d}원래대로{/}
+UI_20161212_002383	{@st66d}Reset Preview{/}
 UI_20161212_002384	{@st66d}Finalize Purchase{/}
 UI_20161212_002385	  Current TP{/}
 UI_20161212_002386	  Remaining TP{/}
-UI_20161212_002387	{@st66b}Top-up TP{/}	{@st66b}TP충전{/}
-UI_20161212_002388	{@st66d}{s18}Top 5 Terpopuler{/}	{@st66d}{s18}인기 Top 5{/}
+UI_20161212_002387	{@st66b}Top-up TP{/}
+UI_20161212_002388	{@st66d}{s18}Top 5 Sellers{/}
 UI_20161212_002389	{@st55_b} Enter a keyword.{/}
-UI_20161212_002390	Top-up TP	 TP 충전
+UI_20161212_002390	Top-up TP
 UI_20161212_002491	{@st66d}{s18}Special Offer{/}
-UI_20161212_002392	{@st66d}Beli{/}	{@st66d}구매 하기{/}
-UI_20161212_002393	{@st66d}{s18}Cash Storage{/}	{@st66d}{s18}캐시창고{/}
-UI_20161212_002394	{@st43d}{s18}Lakukan konfirmasi pembelian untuk mengisi dan menggunakan TP.{/}	{@st43d}{s18}구매를 확정해야만 TP가 충전되고 사용이 가능합니다.{/}
+UI_20161212_002392	{@st66d}Buy{/}
+UI_20161212_002393	{@st66d}{s18}Cash Storage{/}
+UI_20161212_002394	{@st43d}{s18}Lakukan konfirmasi pembelian untuk mengisi dan menggunakan TP.{/}
 UI_20161212_002395	{@st66d}{s30}The webpage reached its end. {nl} Please, press Close.{/}
 UI_20161212_002396	View from the Player's POV
 UI_20161212_002397	All Characters
 UI_20161212_002398	{@st59}Please select a server.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}
-UI_20161212_002399	{@st59}Bila menjalankan replay maka waktu eksekusi per frame akan menyimpan ke dalam file.{/}	{@st59}리플레이를 실행하며 프레임당 수행시간을 파일로 기록합니다.{/}
+UI_20161212_002399	{@st59}Record FPS and Activate Replay.{/}
 UI_20161212_002400	{@st66e}%s{nl}Change from %s to {@st66d_y}%s{/}
 UI_20161212_002401	{@st66b}Restart{/}
 UI_20161212_002402	{@st66d_y}%s{/}
