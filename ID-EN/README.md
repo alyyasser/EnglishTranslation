@@ -51,6 +51,6 @@
 |[QUEST_JOBSTEP_20150811_003139](https://github.com/alyyasser/EnglishTranslation/blob/ToS-INA/ID-EN/English/QUEST_JOBSTEP.tsv#L3139)|
 |[QUEST_JOBSTEP_20150811_003140](https://github.com/alyyasser/EnglishTranslation/blob/ToS-INA/ID-EN/English/QUEST_JOBSTEP.tsv#L3140)|
 **Note:**
-* *QUEST_JOBSTEP_20150811_003131* ~ *QUEST_JOBSTEP_20150811_003140* on ToS INA doesn;t exist on iToS
+* *QUEST_JOBSTEP_20150811_003131* ~ *QUEST_JOBSTEP_20150811_003140* on ToS INA doesn't exist on iToS
 * *QUEST_JOBSTEP_20150908_003131* ~ *QUEST_JOBSTEP_20150908_003138* on iToS doesn't exist on ToS INA (yet?)
 <br>
