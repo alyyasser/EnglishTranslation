@@ -2140,12 +2140,12 @@ UI_20160518_002139	Purchase TP
 UI_20160518_002140	{@st42}TP Purchase
 UI_20160518_002141	{@st43}{s22}TP Shop
 UI_20160518_002142	{@st45tw2}TP Purchase{/}
-UI_20160518_002143	{@st66}Notice Pembelian {/}	{@st66}구매 관련 공지사항 {/}
-UI_20160518_002144	{@st45tw2}Sisa Cash : %s{/}	{@st45tw2}남은 캐시 : %s{/}
+UI_20160518_002143	{@st66}Notice Pembelian {/}
+UI_20160518_002144	{@st45tw2}Sisa Cash : %s{/}
 UI_20160518_002145	Given TP
-UI_20160518_002146	{@st49}Beli{/}	{@st49}구매{/}
-UI_20160519_002147	{@st42}Tombol Isi Cash	{@st42}충전페이지
-UI_20160520_002148	{@st41}Tombol Isi Cash	{@st41}충전페이지
+UI_20160518_002146	{@st49}Beli{/}
+UI_20160519_002147	{@st42}Tombol Isi Cash
+UI_20160520_002148	{@st41}Tombol Isi Cash
 UI_20160524_002149	Only Token users have access to Team Storage. Tradable items can be stored here.
 UI_20160524_002150	{@st42}If both sides are using Tokens,{nl}the trade properties of the weapon{nl}will not be changed.{/}
 UI_20160524_002151	{@st41} My Summonee Info
