@@ -1800,17 +1800,17 @@ UI_20150923_001799	{@st66b}Abandon the quest and try again{/}
 UI_20150923_001800	{@st66b}Try Again{/}
 UI_20150923_001801	{@st66b}Items Sold{/}
 UI_20150923_001802	{@st53}Ranking Points : %s
-UI_20150923_001803	Tidak ada nomor transaksi : %s	거래 불가 갯수 : %s
-UI_20150923_001804	{@st42b}Confirm conversation{/}	{@st42b}대사 확인{/}
-UI_20150923_001805	{@st66b}Party time feast{/}	{@st66b}파티원 외 음식 제공{/}
-UI_20150923_001806	{@st41b}Sign tersisa	{@st41b}간판이름변경
+UI_20150923_001803	Tidak ada nomor transaksi : %s
+UI_20150923_001804	{@st42b}Check Dialog{/}
+UI_20150923_001805	{@st66b}Give food to outside party{/}
+UI_20150923_001806	{@st41b}Change Signboard Title
 UI_20151015_001807	{#000000}The number of entries will reset at %s.{/}
 UI_20151015_001808	{@st59}The selected item will be locked{/}
 UI_20151015_001809	{@st43}Key Settings{/}
 UI_20151015_001810	{@st45tw2}Category
 UI_20151015_001811	Action
 UI_20151015_001812	Restore defaults
-UI_20151015_001813	Fragment dibutuhkan : %s 	필요 파편 : %s개
+UI_20151015_001813	Required Fragments : %s 
 UI_20151015_001814	{@st59}You can change the theme of your lodge and preview it.
 UI_20151015_001815	Total Untradable: %s
 UI_20151015_001816	%s Characters{/}
