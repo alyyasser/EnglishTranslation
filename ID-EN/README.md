@@ -36,3 +36,21 @@
 |[INTL_20160616_000038](https://github.com/alyyasser/EnglishTranslation/blob/NgekNgok-ID-to-EN/ID-EN/English/INTL.tsv#L38)|
 |[INTL_20160616_000039](https://github.com/alyyasser/EnglishTranslation/blob/NgekNgok-ID-to-EN/ID-EN/English/INTL.tsv#L39)|
 <br>
+
+## QUEST_JOBSTEP.tsv
+|ID(s)|
+|:---:|
+|[QUEST_JOBSTEP_20150811_003131](https://github.com/alyyasser/EnglishTranslation/blob/NgekNgok-ID-to-EN/ID-EN/English/QUEST_JOBSTEP.tsv#L3131)|
+|[QUEST_JOBSTEP_20150811_003132](https://github.com/alyyasser/EnglishTranslation/blob/NgekNgok-ID-to-EN/ID-EN/English/QUEST_JOBSTEP.tsv#L3132)|
+|[QUEST_JOBSTEP_20150811_003133](https://github.com/alyyasser/EnglishTranslation/blob/NgekNgok-ID-to-EN/ID-EN/English/QUEST_JOBSTEP.tsv#L3133)|
+|[QUEST_JOBSTEP_20150811_003134](https://github.com/alyyasser/EnglishTranslation/blob/NgekNgok-ID-to-EN/ID-EN/English/QUEST_JOBSTEP.tsv#L3134)|
+|[QUEST_JOBSTEP_20150811_003135](https://github.com/alyyasser/EnglishTranslation/blob/NgekNgok-ID-to-EN/ID-EN/English/QUEST_JOBSTEP.tsv#L3135)|
+|[QUEST_JOBSTEP_20150811_003136](https://github.com/alyyasser/EnglishTranslation/blob/NgekNgok-ID-to-EN/ID-EN/English/QUEST_JOBSTEP.tsv#L3136)|
+|[QUEST_JOBSTEP_20150811_003137](https://github.com/alyyasser/EnglishTranslation/blob/NgekNgok-ID-to-EN/ID-EN/English/QUEST_JOBSTEP.tsv#L3137)|
+|[QUEST_JOBSTEP_20150811_003138](https://github.com/alyyasser/EnglishTranslation/blob/NgekNgok-ID-to-EN/ID-EN/English/QUEST_JOBSTEP.tsv#L3138)|
+|[QUEST_JOBSTEP_20150811_003139](https://github.com/alyyasser/EnglishTranslation/blob/NgekNgok-ID-to-EN/ID-EN/English/QUEST_JOBSTEP.tsv#L3139)|
+|[QUEST_JOBSTEP_20150811_003140](https://github.com/alyyasser/EnglishTranslation/blob/NgekNgok-ID-to-EN/ID-EN/English/QUEST_JOBSTEP.tsv#L3140)|
+**Note:**
+* *QUEST_JOBSTEP_20150811_003131* ~ *QUEST_JOBSTEP_20150811_003140* on ToS INA doesn;t exist on iToS
+* *QUEST_JOBSTEP_20150908_003131* ~ *QUEST_JOBSTEP_20150908_003138* on iToS doesn't exist on ToS INA (yet?)
+<br>
